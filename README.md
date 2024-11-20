@@ -9,4 +9,4 @@ Choose **Rock**, **Paper**, or **Scissors**, and play against a computer that ma
 
 ## License
 
-MIT License
+GNU GENERAL PUBLIC LICENSE

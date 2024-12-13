@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors (RPS) Game with GUI
+**Author:** Jimmy Luong
 
+## Overview
 This project contains **Rock, Paper, Scissors** game implementations in **Rust** and **Python** with graphical user interfaces.
 
 - **Rust version** uses **eframe** and **egui**.
